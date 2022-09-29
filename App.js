@@ -69,7 +69,7 @@ const App = () => {
                   testID="docsInput"
                   multiline
                   style={styles.sectionDescription}>
-                  Read the docs to discover what to do next:
+                  Read the docs to discover what to do next in React Native
                 </TextInput>
               </Slide>
             </SwipeableViews>
